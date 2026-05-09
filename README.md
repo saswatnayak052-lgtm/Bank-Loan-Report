@@ -71,5 +71,12 @@ Data Collection → SQL Data Cleaning → Data Transformation → Power BI Model
 
 ---
 
+## 📸 Dashboard Screens
+https://github.com/saswatnayak052-lgtm/Bank-Loan-Report/blob/main/bank%20loan%201.jpeg
+https://github.com/saswatnayak052-lgtm/Bank-Loan-Report/blob/main/bank%20loan%202.jpeg
+https://github.com/saswatnayak052-lgtm/Bank-Loan-Report/blob/main/bank%20loan%203.jpeg
+
+---
+
 ## 📈 Conclusion
 This project demonstrates how data analytics can be used to evaluate loan performance, assess risk, and improve financial decision-making using SQL and Power BI.
